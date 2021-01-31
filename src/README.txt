@@ -1,0 +1,1 @@
+Use Unity to open "pixelggj" project, and use "File" -> "Build And Run" command to build a game.
