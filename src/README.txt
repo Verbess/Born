@@ -1,1 +1,1 @@
-Use Unity to open "pixelggj" project, and use "File" -> "Build And Run" command to build a game.
+Use Unity version: 2019.4.16f1c1 to open "pixelggj" project under src folder, and use "File" -> "Build And Run" command to build a game.
