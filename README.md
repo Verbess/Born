@@ -8,7 +8,7 @@ Control your role and get items by mouse, and solve puzzles downhill by items.
 Born is an entry of Global Game Jam 2021.
 
 ## Pixel - 疲可瘦
-`2D Art & Designer:` [`@史大巴克思 / Oxalis`](https://twitter.com/oxalisoo)
-`Game Sounder:` [`@pT`](https://www.instagram.com/kian.pt_z)
-`Programer:` [`@杰克有茶`](https://web.okjike.com/u/40780FE7-168D-489B-8AAE-5894AA81B346)
+`2D Art & Designer:` [`@史大巴克思 / Oxalis`](https://twitter.com/oxalisoo)  
+`Game Sounder:` [`@pT`](https://www.instagram.com/kian.pt_z)  
+`Programer:` [`@杰克有茶`](https://web.okjike.com/u/40780FE7-168D-489B-8AAE-5894AA81B346)  
 `Leader & Logistics` [`@Verbess`](https://github.com/Verbess)
